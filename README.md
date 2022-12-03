@@ -1,4 +1,6 @@
 ### Hi there 👋
+# My name is Reo Sato.
+組み込みを中心にプログラムを書いています。
 
 <!--
 **S-Reo/S-Reo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
